@@ -9,6 +9,10 @@ Run:
 
 `git clone https://github.com/mahanhed8s8/Mathity.git`
 
+Then Download [public + src.zip](https://github.com/user-attachments/files/23340895/public.%2B.src.zip)
+
+put public and src into the git folder. Then Run:
+
 `npm i`
 
 `npm run build`
